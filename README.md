@@ -20,7 +20,7 @@ A reading list of relevant research papers on Hate speech and related issues.
 
 
 
-## <a name='into'> Introduction
+## <a name='intro'> Introduction
   
   
   
