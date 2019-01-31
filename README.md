@@ -4,11 +4,11 @@ A reading list of relevant research papers on Hate speech and related issues.
 ## <a name='TOC'>Table of Contents</a>
   1. Definitions
   2. [Datasets](#datasets)
-  3. Survey Papers(#survey)
-  4. Top 10 papers(#top10)
-  5. Code Available(#code)
-  6. Videos(#video)
-  7. Blogs
+  3. [Survey Papers](#survey)
+  4. [Top 10 papers](#top10)
+  5. [Code Available](#code)
+  6. [Videos](#video)
+  7. [Blogs](#blog)
 
 
 ## <a name='datasets'> Datasets
