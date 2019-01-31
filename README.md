@@ -1,6 +1,11 @@
 # Reading List for Hate Speech Research
 A reading list of relevant research papers on Hate speech and related issues.
 
+  In the past few years we have witnessed an increase in the number of hate speech incidents world wide. While there is a rich literature in the social sciences, the research on the computational aspects have just started. This list is an effort to create a *one stop comprehensive* guide for all research related to Hate Speech. The list is still incomplete and the categorization might be inappropriate. 
+ 
+ We will keep adding papers and improving the list. Any suggestions are welcome!
+ 
+
 ## <a name='TOC'>Table of Contents</a>
   1. [Introduction](#intro)
   2. [Datasets](#datasets)
@@ -23,13 +28,7 @@ A reading list of relevant research papers on Hate speech and related issues.
 
 ## <a name='intro'> Introduction
   
-  
-  
-  There are several definitions of Hate speech that are available:
-  
-  1. 
-  
- 
+The Internet is one of the greatest innovations of mankind which has brought together people from every race, religion, and nationality. Social media sites such as Twitter and Facebook have connected billions of people nd allowed them to share their ideas and opinions instantly. That being said, there are several ill consequences as well such as online harassment, trolling, cyber-bullying, and **hate speech**.
   
 
 
