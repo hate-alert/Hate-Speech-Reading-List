@@ -7,15 +7,16 @@ A reading list of relevant research papers on Hate speech and related issues.
   3. [Survey Papers](#survey)
   4. [Top 10 papers](#top10)
   5. [Code Available](#code)
-  6. [Videos](#video)
-  7. [Blogs](#blog)
-  8. [Interesting Reads](#interReads)
-  9. [Language wise](#langwise)
+  6. [Papers](#langwise)
       - [English](#langEng)
       - [Hindi](#langHin)
       - [German](#langGer)
       - [Arabic](#langAra)
       - [Indonesian](#langIndo)
+  7. [Videos](#video)
+  8. [Blogs](#blog)
+  9. [Interesting Reads](#interReads)
+  
   
 
 
