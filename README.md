@@ -68,4 +68,4 @@ A reading list of relevant research papers on Hate speech and related issues.
   * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
   
 ### <a name='langIndo'> Indonesian
-    * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018 Indonesian Journal of Electrical Engineering and Computer Science
+  * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018 Indonesian Journal of Electrical Engineering and Computer Science
