@@ -8,7 +8,7 @@ A reading list of relevant research papers on Hate speech and related issues.
 
 ## <a name='TOC'>Table of Contents</a>
   1. [Introduction](#intro)
-  2. [Datasets](#datasets)
+  2. [Dataset Papers](#datasets)
   3. [Survey Papers](#survey)
   4. [Top 10 papers](#top10)
   5. [Code Available](#code)
@@ -35,6 +35,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 ## <a name='datasets'> Datasets
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
+  * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
+  * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016 *NAACL SRW*.
 
 
 
