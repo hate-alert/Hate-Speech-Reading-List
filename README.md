@@ -55,13 +55,19 @@ A reading list of relevant research papers on Hate speech and related issues.
   * [Automated Hate Speech Detection and the Problem of Offensive Language](https://github.com/t-davidson/hate-speech-and-offensive-language)
   
   
+  
+  
 ## <a name='langwise'> Language Wise
-### <a name='langAra'> Arabic
+
+#### <a name='langAra'> Arabic
   * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
   * Nuha Albadi, Maram Kurdi, and Shivakant Mishra. [Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere](https://ieeexplore.ieee.org/abstract/document/8508247). 2018 *ASONAM*
 
-### <a name='langIndo'> Indonesian
+#### <a name='langIndo'> Indonesian
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018 *Indonesian Journal of Electrical Engineering and Computer Science*
+
+
+
 
 ## <a name='video'> Videos
   * [Hate Speech Beyond Borders: Nazila Ghanea at TEDxEastEnd](https://www.youtube.com/watch?v=mS-bVsHqCzU). 2012
