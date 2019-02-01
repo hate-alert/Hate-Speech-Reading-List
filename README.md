@@ -36,19 +36,19 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='datasets'> Datasets
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
-  * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016 *NAACL SRW*.
+  * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
 
 
 
 ## <a name='survey'> Survey Papers
-  * Paula Fortuna and Sérgio Nunes. [A survey on automatic detection of hate speech in text](https://dl.acm.org/citation.cfm?id=3232676). 2018 *ACM Computing Surveys (CSUR)*
-  * Anna Schmidt and Michael Wiegand. [A survey on hate speech detection using natural language processing](http://www.aclweb.org/anthology/W17-1101). 2017 *SocialNLP*
+  * Paula Fortuna and Sérgio Nunes. [A survey on automatic detection of hate speech in text](https://dl.acm.org/citation.cfm?id=3232676). 2018. *ACM Computing Surveys (CSUR)*
+  * Anna Schmidt and Michael Wiegand. [A survey on hate speech detection using natural language processing](http://www.aclweb.org/anthology/W17-1101). 2017. *SocialNLP*
   
   
   
 
 ## <a name='top10'> Top 10 papers
-  * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015 *Unesco Publishing*
+  * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015. *Unesco Publishing*
   
   
   
@@ -62,10 +62,10 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 #### <a name='langAra'> Arabic
   * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
-  * Nuha Albadi, Maram Kurdi, and Shivakant Mishra. [Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere](https://ieeexplore.ieee.org/abstract/document/8508247). 2018 *ASONAM*
+  * Nuha Albadi, Maram Kurdi, and Shivakant Mishra. [Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere](https://ieeexplore.ieee.org/abstract/document/8508247). 2018. *ASONAM*
 
 #### <a name='langIndo'> Indonesian
-  * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018 *Indonesian Journal of Electrical Engineering and Computer Science*
+  * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
 
 
 
