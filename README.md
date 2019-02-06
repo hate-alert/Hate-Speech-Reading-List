@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/binny-mathew/Hate-Speech-Reading-List.svg)](http://hits.dwyl.io/binny-mathew/Hate-Speech-Reading-List)
 # Reading List for Hate Speech Research
 A reading list of relevant research papers on Hate speech and related issues.
 
