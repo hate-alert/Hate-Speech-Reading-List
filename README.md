@@ -8,6 +8,7 @@ A reading list of relevant research papers on Hate speech and related issues.
  
 
 ## <a name='TOC'>Table of Contents</a>
+
   1. [Introduction](#intro)
   2. [Dataset Papers](#datasets)
   3. [Survey Papers](#survey)
@@ -35,15 +36,18 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 
 ## <a name='datasets'> Datasets
-  * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
+  
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
   * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
   * Ziqi Zhang, David Robinson, and Jonathan Tepper. [Detecting hate speech on Twitter using a convolution-GRU based deep neural network](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_48). 2018.  *European Semantic Web Conference*
   * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *Language Resources and Evaluation Conference-LREC ELRA*
-
+  * Mai ElSherief, Vivek Kulkarni, Dana Nguyen, William Yang Wang, and Elizabeth Belding. [Hate lingo: A target-based linguistic analysis of hate speech in social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17910). 2018. *ICWSM*
+  * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
+  * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. [Automated hate speech detection and the problem of offensive language](https://arxiv.org/pdf/1703.04009.pdf). 2017. *ICWSM*
 
 
 ## <a name='survey'> Survey Papers
+  
   * Paula Fortuna and Sérgio Nunes. [A survey on automatic detection of hate speech in text](https://dl.acm.org/citation.cfm?id=3232676). 2018. *ACM Computing Surveys (CSUR)*
   * Anna Schmidt and Michael Wiegand. [A survey on hate speech detection using natural language processing](http://www.aclweb.org/anthology/W17-1101). 2017. *SocialNLP*
   
@@ -51,11 +55,13 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
 
 ## <a name='top10'> Interesting Papers
+  
   * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015. *Unesco Publishing*
   
   
   
 ## <a name='code'> Code Available
+  
   * [Automated Hate Speech Detection and the Problem of Offensive Language](https://github.com/t-davidson/hate-speech-and-offensive-language)
   
   
@@ -64,26 +70,32 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='langwise'> Language Wise
 
 #### <a name='langAra'> Arabic
+  
   * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
   * Nuha Albadi, Maram Kurdi, and Shivakant Mishra. [Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere](https://ieeexplore.ieee.org/abstract/document/8508247). 2018. *ASONAM*
 
 #### <a name='langIndo'> Indonesian
+  
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
 
 #### <a name='langEng'> English
+  
   * Wiktor Soral, Michał Bilewicz, and Mikołaj Winiewski. [Exposure to hate speech increases prejudice through desensitization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21737). 2018. *Aggressive behavior*
   * Mai ElSherief, Shirin Nilizadeh, Dana Nguyen, Giovanni Vigna, and Elizabeth Belding. [Peer to peer hate: Hate speech instigators and their targets](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17905). 2018. *ICWSM*
 
 ## <a name='video'> Videos
+  
   * [Hate Speech Beyond Borders: Nazila Ghanea at TEDxEastEnd](https://www.youtube.com/watch?v=mS-bVsHqCzU). 2012
   
   
   
 ## <a name='blog'> Blogs
+  
   * [No Hate speech Movement](http://blog.nohatespeechmovement.org)
   
   
 
 ## <a name='interReads'> Interesting Reads
+  
   * Alexandra A. Siegel. [Online Hate Speech](https://alexandra-siegel.com/wp-content/uploads/2018/09/Siegel_Online_Hate_Speech.pdf). 2018. [No Hate speech Movement](http://blog.nohatespeechmovement.org)
 
