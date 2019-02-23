@@ -11,7 +11,7 @@ A reading list of relevant research papers on Hate speech and related issues.
   1. [Introduction](#intro)
   2. [Dataset Papers](#datasets)
   3. [Survey Papers](#survey)
-  4. [Top 10 papers](#top10)
+  4. [Interesting Papers](#top10)
   5. [Code Available](#code)
   6. [Papers](#langwise)
       - [English](#langEng)
@@ -50,7 +50,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
 
-## <a name='top10'> Top 10 papers
+## <a name='top10'> Interesting Papers
   * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015. *Unesco Publishing*
   
   
