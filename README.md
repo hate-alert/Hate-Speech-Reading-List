@@ -38,6 +38,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
   * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
+  * Ziqi Zhang, David Robinson, and Jonathan Tepper. [Detecting hate speech on Twitter using a convolution-GRU based deep neural network](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_48). 2018.  *European Semantic Web Conference*
+  * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants.". 2018. *Language Resources and Evaluation Conference-LREC ELRA*
 
 
 
@@ -68,8 +70,9 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 #### <a name='langIndo'> Indonesian
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
 
-
-
+#### <a name='langEng'> English
+  * Wiktor Soral, Michał Bilewicz, and Mikołaj Winiewski. [Exposure to hate speech increases prejudice through desensitization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21737). 2018. *Aggressive behavior*
+  * Mai ElSherief, Shirin Nilizadeh, Dana Nguyen, Giovanni Vigna, and Elizabeth Belding. [Peer to peer hate: Hate speech instigators and their targets](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17905). 2018. *ICWSM*
 
 ## <a name='video'> Videos
   * [Hate Speech Beyond Borders: Nazila Ghanea at TEDxEastEnd](https://www.youtube.com/watch?v=mS-bVsHqCzU). 2012
