@@ -39,7 +39,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
   * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
   * Ziqi Zhang, David Robinson, and Jonathan Tepper. [Detecting hate speech on Twitter using a convolution-GRU based deep neural network](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_48). 2018.  *European Semantic Web Conference*
-  * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants.". 2018. *Language Resources and Evaluation Conference-LREC ELRA*
+  * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *Language Resources and Evaluation Conference-LREC ELRA*
 
 
 
