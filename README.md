@@ -41,11 +41,11 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
   * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
   * Ziqi Zhang, David Robinson, and Jonathan Tepper. [Detecting hate speech on Twitter using a convolution-GRU based deep neural network](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_48). 2018.  *European Semantic Web Conference*
-  * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *Language Resources and Evaluation Conference-LREC ELRA*
+  * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *LREC ELRA*
   * Mai ElSherief, Vivek Kulkarni, Dana Nguyen, William Yang Wang, and Elizabeth Belding. [Hate lingo: A target-based linguistic analysis of hate speech in social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17910). 2018. *ICWSM*
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
   * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. [Automated hate speech detection and the problem of offensive language](https://arxiv.org/pdf/1703.04009.pdf). 2017. *ICWSM*
-  * [GAB Dataset Link](https://zenodo.org/record/1418347) : [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531)
+  * [GAB Dataset Link](https://zenodo.org/record/1418347) --> [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531). 2018 . *WWW*
 
 
 ## <a name='survey'> Survey Papers
@@ -93,7 +93,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Ziqi Zhang, and Lei Luo. [Hate speech detection: A solved problem? The challenging case of long tail on Twitter](https://content.iospress.com/articles/semantic-web/sw180338). 2018. *Semantic Web Preprint*
   * Karsten Müller, and Carlo Schwarz. [Fanning the flames of hate: Social media and hate crime](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082972). 2018. *SSRN*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection](http://www.aclweb.org/anthology/N18-2019). 2018. *NAACL*
-  * Alexandra Olteanu, Carlos Castillo, Jeremy Boy, and Kush R. Varshney. [The effect of extremist violence on hateful speech online](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17908). 2018 *ICWSM*
+  * Alexandra Olteanu, Carlos Castillo, Jeremy Boy, and Kush R. Varshney. [The effect of extremist violence on hateful speech online](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17908). 2018. *ICWSM*
   
   
   
