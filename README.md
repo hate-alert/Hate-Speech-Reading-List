@@ -14,15 +14,16 @@ A reading list of relevant research papers on Hate speech and related issues.
   3. [Survey Papers](#survey)
   4. [Interesting Papers](#top10)
   5. [Code Available](#code)
-  6. [Papers](#langwise)
+  6. [Shared Tasks](#sharedtasks)
+  7. [Papers](#langwise)
       - [English](#langEng)
       - [Hindi](#langHin)
       - [German](#langGer)
       - [Arabic](#langAra)
       - [Indonesian](#langIndo)
-  7. [Videos](#video)
-  8. [Blogs](#blog)
-  9. [Interesting Reads](#interReads)
+  8. [Videos](#video)
+  9. [Blogs](#blog)
+  10. [Interesting Reads](#interReads)
   
   
 
@@ -44,6 +45,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Mai ElSherief, Vivek Kulkarni, Dana Nguyen, William Yang Wang, and Elizabeth Belding. [Hate lingo: A target-based linguistic analysis of hate speech in social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17910). 2018. *ICWSM*
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
   * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. [Automated hate speech detection and the problem of offensive language](https://arxiv.org/pdf/1703.04009.pdf). 2017. *ICWSM*
+  * [GAB Dataset Link](https://zenodo.org/record/1418347) : [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531)
 
 
 ## <a name='survey'> Survey Papers
@@ -67,6 +69,11 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
   
+## <a name='sharedtasks'> Shared Tasks
+  
+  * Cristina Bosco, Dell'Orletta Felice, Fabio Poletto, Manuela Sanguinetti, and Tesconi Maurizio. [Overview of the EVALITA 2018 Hate Speech Detection Task]((http://ceur-ws.org/Vol-2263/paper010.pdf). 2018. *EVALITA*
+  * [HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
+  
 ## <a name='langwise'> Language Wise
 
 #### <a name='langAra'> Arabic
@@ -82,7 +89,16 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   * Wiktor Soral, Michał Bilewicz, and Mikołaj Winiewski. [Exposure to hate speech increases prejudice through desensitization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21737). 2018. *Aggressive behavior*
   * Mai ElSherief, Shirin Nilizadeh, Dana Nguyen, Giovanni Vigna, and Elizabeth Belding. [Peer to peer hate: Hate speech instigators and their targets](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17905). 2018. *ICWSM*
-
+  * Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael Sirivianos, Gianluca Stringini, and Jeremy Blackburn. [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531). 2018. *WWW*
+  * Ziqi Zhang, and Lei Luo. [Hate speech detection: A solved problem? The challenging case of long tail on Twitter](https://content.iospress.com/articles/semantic-web/sw180338). 2018. *Semantic Web Preprint*
+  * Karsten Müller, and Carlo Schwarz. [Fanning the flames of hate: Social media and hate crime](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082972). 2018. *SSRN*
+  * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection](http://www.aclweb.org/anthology/N18-2019). 2018. *NAACL*
+  * Alexandra Olteanu, Carlos Castillo, Jeremy Boy, and Kush R. Varshney. [The effect of extremist violence on hateful speech online](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17908). 2018 *ICWSM*
+  
+  
+  
+  
+  
 ## <a name='video'> Videos
   
   * [Hate Speech Beyond Borders: Nazila Ghanea at TEDxEastEnd](https://www.youtube.com/watch?v=mS-bVsHqCzU). 2012
