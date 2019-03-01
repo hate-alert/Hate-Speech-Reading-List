@@ -71,17 +71,17 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
 ## <a name='sharedtasks'> Shared Tasks
   
-  * Cristina Bosco, Dell'Orletta Felice, Fabio Poletto, Manuela Sanguinetti, and Tesconi Maurizio. [Overview of the EVALITA 2018 Hate Speech Detection Task]((http://ceur-ws.org/Vol-2263/paper010.pdf). 2018. *EVALITA*
+  * Cristina Bosco, Dell'Orletta Felice, Fabio Poletto, Manuela Sanguinetti, and Tesconi Maurizio. [Overview of the EVALITA 2018 Hate Speech Detection Task](http://ceur-ws.org/Vol-2263/paper010.pdf). 2018. *EVALITA*
   * [HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
   
 ## <a name='langwise'> Language Wise
 
-#### <a name='langAra'> Arabic
+### <a name='langAra'> Arabic
   
-  ##### 2018
+  #### 2018
   
-  * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
   * Nuha Albadi, Maram Kurdi, and Shivakant Mishra. [Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere](https://ieeexplore.ieee.org/abstract/document/8508247). 2018. *ASONAM*
+  * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
 
 #### <a name='langIndo'> Indonesian
   
