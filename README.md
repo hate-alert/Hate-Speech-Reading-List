@@ -127,5 +127,5 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 ## <a name='interReads'> Interesting Reads
   
-  * Alexandra A. Siegel. [Online Hate Speech](https://alexandra-siegel.com/wp-content/uploads/2018/09/Siegel_Online_Hate_Speech.pdf). 2018. [No Hate speech Movement](http://blog.nohatespeechmovement.org)
+  * Alexandra A. Siegel. [Online Hate Speech](https://alexandra-siegel.com/wp-content/uploads/2018/09/Siegel_Online_Hate_Speech.pdf). 2018.
 
