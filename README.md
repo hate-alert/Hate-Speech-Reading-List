@@ -91,7 +91,12 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 #### <a name='langEng'> English
   
-  ##### 2018
+  #### 2019
+  * Pushkar Mishra, Marco Del Tredici, Helen Yannakoudakis, and Ekaterina Shutova. [Author Profiling for Hate Speech Detection](https://arxiv.org/abs/1902.06734). 2019. *arXiv*
+  * T. Y. S. S. Santosh, and K. V. S. Aravind. [Hate Speech Detection in Hindi-English Code-Mixed Social Media Text](https://dl.acm.org/citation.cfm?id=3297048). 2019. *CoDS-COMAD*
+  * Junanda Patihullah, and Edi Winarko. [Hate Speech Detection for Indonesia Tweets Using Word Embedding And Gated Recurrent Unit](https://journal.ugm.ac.id/ijccs/article/view/40125). 2019. *IJCCS*
+  
+  #### 2018
   
   * Wiktor Soral, Michał Bilewicz, and Mikołaj Winiewski. [Exposure to hate speech increases prejudice through desensitization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21737). 2018. *Aggressive behavior*
   * Mai ElSherief, Shirin Nilizadeh, Dana Nguyen, Giovanni Vigna, and Elizabeth Belding. [Peer to peer hate: Hate speech instigators and their targets](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17905). 2018. *ICWSM*
@@ -100,6 +105,9 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Karsten Müller, and Carlo Schwarz. [Fanning the flames of hate: Social media and hate crime](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082972). 2018. *SSRN*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection](http://www.aclweb.org/anthology/N18-2019). 2018. *NAACL*
   * Alexandra Olteanu, Carlos Castillo, Jeremy Boy, and Kush R. Varshney. [The effect of extremist violence on hateful speech online](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17908). 2018. *ICWSM*
+  * David Robinson, Ziqi Zhang, and Jonathan Tepper. [Hate speech detection on twitter: Feature engineering vs feature selection](https://link.springer.com/chapter/10.1007/978-3-319-98192-5_9). 2018. *European Semantic Web Conference*
+  * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Hierarchical CVAE for Fine-Grained Hate Speech Classification](http://www.aclweb.org/anthology/D18-1391). 2018. *EMNLP*
+  * Tommi Gröndahl, Luca Pajola, Mika Juuti, Mauro Conti, and N. Asokan. [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/abs/1808.09115). 2018. *arXiv*
   
   
   
