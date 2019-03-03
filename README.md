@@ -93,13 +93,14 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 ### <a name='langIndo'> Indonesian
   
-  ##### 2018
+  #### 2018
   
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
 
 ### <a name='langEng'> English
   
   #### 2019
+  
   * Pushkar Mishra, Marco Del Tredici, Helen Yannakoudakis, and Ekaterina Shutova. [Author Profiling for Hate Speech Detection](https://arxiv.org/abs/1902.06734). 2019. *arXiv*
   * T. Y. S. S. Santosh, and K. V. S. Aravind. [Hate Speech Detection in Hindi-English Code-Mixed Social Media Text](https://dl.acm.org/citation.cfm?id=3297048). 2019. *CoDS-COMAD*
   * Junanda Patihullah, and Edi Winarko. [Hate Speech Detection for Indonesia Tweets Using Word Embedding And Gated Recurrent Unit](https://journal.ugm.ac.id/ijccs/article/view/40125). 2019. *IJCCS*
