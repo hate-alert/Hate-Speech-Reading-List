@@ -91,13 +91,13 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Nuha Albadi, Maram Kurdi, and Shivakant Mishra. [Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere](https://ieeexplore.ieee.org/abstract/document/8508247). 2018. *ASONAM*
   * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
 
-#### <a name='langIndo'> Indonesian
+### <a name='langIndo'> Indonesian
   
   ##### 2018
   
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
 
-#### <a name='langEng'> English
+### <a name='langEng'> English
   
   #### 2019
   * Pushkar Mishra, Marco Del Tredici, Helen Yannakoudakis, and Ekaterina Shutova. [Author Profiling for Hate Speech Detection](https://arxiv.org/abs/1902.06734). 2019. *arXiv*
@@ -120,7 +120,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
   
-#### <a name='langDutch'> Dutch
+### <a name='langDutch'> Dutch
   
   #### 2016
   
