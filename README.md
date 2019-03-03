@@ -19,6 +19,7 @@ A reading list of relevant research papers on Hate speech and related issues.
       - [Arabic](#langAra)
       - [Indonesian](#langIndo)
       - [English](#langEng)
+      - [Dutch](#langDutch)
       - [Hindi](#langHin)
       - [German](#langGer)
   8. [Videos](#video)
@@ -40,11 +41,13 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
   * Ziqi Zhang, David Robinson, and Jonathan Tepper. [Detecting hate speech on Twitter using a convolution-GRU based deep neural network](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_48). 2018.  *European Semantic Web Conference*
+  * Ona de Gibert, Naiara Perez, Aitor García Pablos, and Montse Cuadros. [Hate Speech Dataset from a White Supremacy Forum](http://www.aclweb.org/anthology/W18-51#page=25). 2018. *ALW2*
   * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *LREC ELRA*
   * Mai ElSherief, Vivek Kulkarni, Dana Nguyen, William Yang Wang, and Elizabeth Belding. [Hate lingo: A target-based linguistic analysis of hate speech in social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17910). 2018. *ICWSM*
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
   * [GAB Dataset Link](https://zenodo.org/record/1418347) --> [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531). 2018 . *WWW*
   * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. [Automated hate speech detection and the problem of offensive language](https://arxiv.org/pdf/1703.04009.pdf). 2017. *ICWSM*
+  * Lei Gao, and Ruihong Huang. [Detecting Online Hate Speech Using Context Aware Models](http://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP036.pdf). 2017. *RANLP*
   * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
 
 
@@ -65,6 +68,11 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='code'> Code Available
   
   * [Automated Hate Speech Detection and the Problem of Offensive Language](https://github.com/t-davidson/hate-speech-and-offensive-language)
+  * [Deep Learning for Hate Speech Detection in Tweets](https://github.com/pinkeshbadjatiya/twitter-hatespeech)
+  * [Hateminers: Detecting Hate speech against Women](https://github.com/punyajoy/Hateminers-EVALITA)
+  * [Detecting Online Hate Speech Using Context Aware Models](https://github.com/sjtuprog/fox-news-comments)
+  * [CLiPS HAte speech DEtection System (HADES)](https://github.com/clips/hades)
+  
   
   
   
@@ -101,6 +109,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Wiktor Soral, Michał Bilewicz, and Mikołaj Winiewski. [Exposure to hate speech increases prejudice through desensitization](https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21737). 2018. *Aggressive behavior*
   * Mai ElSherief, Shirin Nilizadeh, Dana Nguyen, Giovanni Vigna, and Elizabeth Belding. [Peer to peer hate: Hate speech instigators and their targets](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17905). 2018. *ICWSM*
   * Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael Sirivianos, Gianluca Stringini, and Jeremy Blackburn. [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531). 2018. *WWW*
+  * Punyajoy Saha, Binny Mathew, Pawan Goyal, and Animesh Mukherjee. [Hateminers: Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700). 2018. *arXiv*
   * Ziqi Zhang, and Lei Luo. [Hate speech detection: A solved problem? The challenging case of long tail on Twitter](https://content.iospress.com/articles/semantic-web/sw180338). 2018. *Semantic Web Preprint*
   * Karsten Müller, and Carlo Schwarz. [Fanning the flames of hate: Social media and hate crime](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082972). 2018. *SSRN*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection](http://www.aclweb.org/anthology/N18-2019). 2018. *NAACL*
@@ -111,6 +120,11 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
   
+#### <a name='langDutch'> Dutch
+  
+  #### 2016
+  
+  * Stéphan Tulkens, Lisa Hilte, Elise Lodewyckx, Ben Verhoeven, and Walter Daelemans. [A Dictionary-based Approach to Racism Detection in Dutch Social Media](https://www.ta-cos.org/sites/ta-cos.org/files/dictionary-based-approach.pdf). 2016. *TA-COS*
   
   
 ## <a name='video'> Videos
