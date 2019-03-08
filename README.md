@@ -49,6 +49,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. [Automated hate speech detection and the problem of offensive language](https://arxiv.org/pdf/1703.04009.pdf). 2017. *ICWSM*
   * Lei Gao, and Ruihong Huang. [Detecting Online Hate Speech Using Context Aware Models](http://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP036.pdf). 2017. *RANLP*
   * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
+  * [Dataset Link](https://github.com/Mainack/hatespeech-data-HT-2017) for the paper [A Measurement Study of Hate Speech in Social Media](https://dl.acm.org/citation.cfm?id=3078723)
 
 
 ## <a name='survey'> Survey Papers
