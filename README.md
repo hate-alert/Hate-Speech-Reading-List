@@ -16,6 +16,7 @@ A reading list of relevant research papers on Hate speech and related issues.
   5. [Code Available](#code)
   6. [Shared Tasks](#sharedtasks)
   7. [Papers](#langwise)
+      - [Amharic](#langAmharic)
       - [Arabic](#langAra)
       - [Indonesian](#langIndo)
       - [English](#langEng)
@@ -84,6 +85,15 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * [HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
   
 ## <a name='langwise'> Language Wise
+  
+  
+  ### <a name='langAmharic'> Amharic
+  
+  #### 2018
+  
+  * Zewdie Mossie, and Jenq-Haur Wang. [SOCIAL NETWORK HATE SPEECH DETECTION FOR AMHARIC LANGUAGE](http://aircconline.com/csit/csit886.pdf#page=51). 2018. *Computer Science & Information Technology*
+  
+  
 
 ### <a name='langAra'> Arabic
   
@@ -119,6 +129,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * David Robinson, Ziqi Zhang, and Jonathan Tepper. [Hate speech detection on twitter: Feature engineering vs feature selection](https://link.springer.com/chapter/10.1007/978-3-319-98192-5_9). 2018. *European Semantic Web Conference*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Hierarchical CVAE for Fine-Grained Hate Speech Classification](http://www.aclweb.org/anthology/D18-1391). 2018. *EMNLP*
   * Tommi Gröndahl, Luca Pajola, Mika Juuti, Mauro Conti, and N. Asokan. [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/abs/1808.09115). 2018. *arXiv*
+  * Shervin Malmasi, and Marcos Zampieri. [Challenges in discriminating profanity from hate speech](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2017.1409284). 2018. *Journal of Experimental & Theoretical Artificial Intelligence*
+  
   
   
   
