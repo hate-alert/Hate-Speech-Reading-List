@@ -18,11 +18,12 @@ A reading list of relevant research papers on Hate speech and related issues.
   7. [Papers](#langwise)
       - [Amharic](#langAmharic)
       - [Arabic](#langAra)
-      - [Indonesian](#langIndo)
-      - [English](#langEng)
       - [Dutch](#langDutch)
-      - [Hindi](#langHin)
+      - [English](#langEng)
       - [German](#langGer)
+      - [Hindi](#langHin)
+      - [Indonesian](#langIndo)
+      
   8. [Videos](#video)
   9. [Blogs](#blog)
   10. [Interesting Reads](#interReads)
@@ -102,11 +103,15 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Nuha Albadi, Maram Kurdi, and Shivakant Mishra. [Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere](https://ieeexplore.ieee.org/abstract/document/8508247). 2018. *ASONAM*
   * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
 
-### <a name='langIndo'> Indonesian
+
+### <a name='langDutch'> Dutch
   
-  #### 2018
+  #### 2016
   
-  * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
+  * Stéphan Tulkens, Lisa Hilte, Elise Lodewyckx, Ben Verhoeven, and Walter Daelemans. [A Dictionary-based Approach to Racism Detection in Dutch Social Media](https://www.ta-cos.org/sites/ta-cos.org/files/dictionary-based-approach.pdf). 2016. *TA-COS*
+  
+  
+ 
 
 ### <a name='langEng'> English
   
@@ -134,12 +139,15 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
   
-### <a name='langDutch'> Dutch
+
   
-  #### 2016
   
-  * Stéphan Tulkens, Lisa Hilte, Elise Lodewyckx, Ben Verhoeven, and Walter Daelemans. [A Dictionary-based Approach to Racism Detection in Dutch Social Media](https://www.ta-cos.org/sites/ta-cos.org/files/dictionary-based-approach.pdf). 2016. *TA-COS*
+
+### <a name='langIndo'> Indonesian
   
+  #### 2018
+  
+  * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
   
 ## <a name='video'> Videos
   
