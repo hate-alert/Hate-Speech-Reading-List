@@ -135,7 +135,12 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Hierarchical CVAE for Fine-Grained Hate Speech Classification](http://www.aclweb.org/anthology/D18-1391). 2018. *EMNLP*
   * Tommi Gröndahl, Luca Pajola, Mika Juuti, Mauro Conti, and N. Asokan. [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/abs/1808.09115). 2018. *arXiv*
   * Shervin Malmasi, and Marcos Zampieri. [Challenges in discriminating profanity from hate speech](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2017.1409284). 2018. *Journal of Experimental & Theoretical Artificial Intelligence*
+  * Binny Mathew, Ritam Dutt, Pawan Goyal, and Animesh Mukherjee. [Spread of hate speech in online social media](https://arxiv.org/abs/1812.01693). 2018. *arXiv*
   
+  
+  #### 2017
+  
+  * Pinkesh Badjatiya, Shashank Gupta, Manish Gupta, and Vasudeva Varma. [Deep learning for hate speech detection in tweets](https://dl.acm.org/citation.cfm?id=3054223). 2017. *WWW*
   
   
   
