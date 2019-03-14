@@ -151,6 +151,10 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 ### <a name='langIndo'> Indonesian
   
+  #### 2017
+  
+  * Ika Alfina, Rio Mulia, Mohamad Ivan Fanany, and Yudo Ekanata. [Hate speech detection in the indonesian language: A dataset and preliminary study](https://ieeexplore.ieee.org/abstract/document/8355039). 2017. *ICACSIS*
+  
   #### 2018
   
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
