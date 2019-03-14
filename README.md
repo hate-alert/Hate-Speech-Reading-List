@@ -164,7 +164,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   #### 2017
   
-  * Fabio Del Vigna, Andrea Cimino, Felice Dell'Orletta, Marinella Petrocchi, and Maurizio Tesconi [Hate me, hate me not: Hate speech detection on Facebook](http://ceur-ws.org/Vol-1816/paper-09.pdf). 2017. * Italian Conference on Cybersecurity*
+  * Fabio Del Vigna, Andrea Cimino, Felice Dell'Orletta, Marinella Petrocchi, and Maurizio Tesconi [Hate me, hate me not: Hate speech detection on Facebook](http://ceur-ws.org/Vol-1816/paper-09.pdf). 2017. *Italian Conference on Cybersecurity*
   * Fabio Poletto, Marco Stranisci, Manuela Sanguinetti, Viviana Patti, and Cristina Bosco. [Hate speech annotation: Analysis of an italian Twitter corpus](https://iris.unito.it/retrieve/handle/2318/1659197/387293/paper024.pdf). 2017. *CLiC-it*  
   
   
