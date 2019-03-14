@@ -24,6 +24,7 @@ A reading list of relevant research papers on Hate speech and related issues.
       - [German](#langGer)
       - [Hindi](#langHin)
       - [Indonesian](#langIndo)
+      - [Italian](#langItalian)
   8. [Videos](#video)
   9. [Blogs](#blog)
   10. [Interesting Reads](#interReads)
@@ -153,6 +154,20 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2018
   
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
+  
+  
+### <a name='langItalian'> Italian
+  
+  #### 2018
+  
+  * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *LREC ELRA*
+  
+  #### 2017
+  
+  * Fabio Del Vigna, Andrea Cimino, Felice Dell'Orletta, Marinella Petrocchi, and Maurizio Tesconi [Hate me, hate me not: Hate speech detection on Facebook](http://ceur-ws.org/Vol-1816/paper-09.pdf). 2017. * Italian Conference on Cybersecurity*
+  * Fabio Poletto, Marco Stranisci, Manuela Sanguinetti, Viviana Patti, and Cristina Bosco. [Hate speech annotation: Analysis of an italian Twitter corpus](https://iris.unito.it/retrieve/handle/2318/1659197/387293/paper024.pdf). 2017. *CLiC-it*  
+  
+  
   
 ## <a name='video'> Videos
   
