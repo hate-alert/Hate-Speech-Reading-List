@@ -53,6 +53,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Lei Gao, and Ruihong Huang. [Detecting Online Hate Speech Using Context Aware Models](http://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP036.pdf). 2017. *RANLP*
   * Zeerak Waseem and Dirk Hovy. [Hateful symbols or hateful people? predictive features for hate speech detection on twitter](http://www.aclweb.org/anthology/N16-2013). 2016. *NAACL SRW*
   * [Dataset Link](https://github.com/Mainack/hatespeech-data-HT-2017) for the paper [A Measurement Study of Hate Speech in Social Media](https://dl.acm.org/citation.cfm?id=3078723)
+  * [Dataset Link](https://github.com/UCSM-DUE/IWG_hatespeech_public) for the paper [Measuring the Reliability of Hate Speech Annotations:The Case of the European Refugee Crisis](https://arxiv.org/pdf/1701.08118.pdf).
 
 
 ## <a name='survey'> Survey Papers
@@ -187,6 +188,25 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 * Vasu Reddy. [Perverts and sodomites: Homophobia as hate speech in Africa](https://www.tandfonline.com/doi/abs/10.2989/16073610209486308). 2002. *Southern African Linguistics and Applied Language Studies*
   
   
+
+
+
+
+### <a name='langGer'> German
+  
+  
+ 
+ #### 2017
+ 
+ *  Björn Ross, Michael Rist, Guillermo Carbonell, Benjamin Cabrera, Nils Kurowsky, and Michael Wojatzki. [Measuring the reliability of hate speech annotations: The case of the european refugee crisis](https://arxiv.org/pdf/1701.08118.pdf). 2017. *NLP4CMC*
+  
+  
+  
+  
+  
+  
+  
+
 
 ### <a name='langIndo'> Indonesian
   
