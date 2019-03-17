@@ -148,6 +148,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Tommi Gröndahl, Luca Pajola, Mika Juuti, Mauro Conti, and N. Asokan. [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/abs/1808.09115). 2018. *arXiv*
   * Shervin Malmasi, and Marcos Zampieri. [Challenges in discriminating profanity from hate speech](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2017.1409284). 2018. *Journal of Experimental & Theoretical Artificial Intelligence*
   * Binny Mathew, Ritam Dutt, Pawan Goyal, and Animesh Mukherjee. [Spread of hate speech in online social media](https://arxiv.org/abs/1812.01693). 2018. *arXiv*
+  * Joel Finkelstein, Savvas Zannettou, Barry Bradlyn, and Jeremy Blackburn. [A quantitative approach to understanding online antisemitism](https://arxiv.org/abs/1809.01644). 2018. *arXiv*
+  * Alexandra Olteanu, Carlos Castillo, Jeremy Boy and Kush R. Varshney. [The Effect of Extremist Violence on Hateful Speech Online](https://arxiv.org/pdf/1804.05704.pdf). 2018. *ICWSM*
   
   
   
@@ -164,9 +166,14 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  #### 2016
  
  *  Sarah Hewitt, Thanassis Tiropanis, and Christian Bokhove. [The problem of identifying misogynist language on Twitter (and other online social spaces](https://dl.acm.org/citation.cfm?id=2908183). 2016. *WebSci*
+ *  Pete Burnap, and Matthew L. Williams. [Us and them: identifying cyber hate on Twitter across multiple protected characteristics](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0072-6). 2016. *EPJ Data Science*
+ *  Imran Awan. [Islamophobia on Social Media: A Qualitative Analysis of the Facebook's Walls of Hate](http://cybercrimejournal.com/ImranAwanvol10issue1IJCC2016.pdf). 2016. *International Journal of Cyber Criminology*
  
  
  
+ #### 2015
+ 
+ *  Njagi Dennis Gitari, Zhang Zuping, Hanyurwimfura Damien, and Jun Long. [A lexicon-based approach for hate speech detection](https://preventviolentextremism.info/sites/default/files/A%20Lexicon-Based%20Approach%20for%20Hate%20Speech%20Detection.pdf). 2015. *International Journal of Multimedia and Ubiquitous Engineering*
  
  
  #### 2014
@@ -179,6 +186,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  #### 2013
  
  *  Irene Kwok, and Yuzhou Wang. [Locate the hate: Detecting tweets against blacks](https://pdfs.semanticscholar.org/db55/11e90b2f4d650067ebf934294617eff81eca.pdf). 2013. *AAAI*
+ *  Michal Bilewicz, Mikołaj Winiewski, Mirosław Kofta, and Adrian Wójcik. [Harmful Ideas, The Structure and Consequences of Anti‐Semitic Beliefs in Poland](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12024). 2013. *Political Psychology*
   
   
 
