@@ -160,6 +160,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Haji Mohammad Saleem, Kelly P. Dillon, Susan Benesch, and Derek Ruths. [A web of hate: Tackling hateful speech in online social spaces](https://arxiv.org/abs/1709.10159). 2017. *TA-COS*
   * Eshwar Chandrasekharan, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. [You can't stay here: The efficacy of reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf). 2017. *CSCW*
   * Björn Gambäck, and Utpal Kumar Sikdar. [Using convolutional neural networks to classify hate-speech](http://www.aclweb.org/anthology/W17-3013). 2017. *Workshop on Abusive Language Online*
+  * Rijul Magu, Kshitij Joshi, and Jiebo Luo. [Detecting the hate code on social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/viewPaper/15604). 2017. *ICWSM*
  
  
  
@@ -169,6 +170,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  *  Sarah Hewitt, Thanassis Tiropanis, and Christian Bokhove. [The problem of identifying misogynist language on Twitter (and other online social spaces](https://dl.acm.org/citation.cfm?id=2908183). 2016. *WebSci*
  *  Pete Burnap, and Matthew L. Williams. [Us and them: identifying cyber hate on Twitter across multiple protected characteristics](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0072-6). 2016. *EPJ Data Science*
  *  Imran Awan. [Islamophobia on Social Media: A Qualitative Analysis of the Facebook's Walls of Hate](http://cybercrimejournal.com/ImranAwanvol10issue1IJCC2016.pdf). 2016. *International Journal of Cyber Criminology*
+ *  Silva, Leandro, Mainack Mondal, Denzil Correa, Fabrício Benevenuto, and Ingmar Weber. [Analyzing the targets of hate in online social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/viewPaper/13147). 2016. *ICWSM*
  
  
  
