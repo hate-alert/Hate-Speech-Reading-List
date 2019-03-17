@@ -156,7 +156,24 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Haji Mohammad Saleem, Kelly P. Dillon, Susan Benesch, and Derek Ruths. [A web of hate: Tackling hateful speech in online social spaces](https://arxiv.org/abs/1709.10159). 2017. *TA-COS*
   * Eshwar Chandrasekharan, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. [You can't stay here: The efficacy of reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf). 2017. *CSCW*
   * Björn Gambäck, and Utpal Kumar Sikdar. [Using convolutional neural networks to classify hate-speech](http://www.aclweb.org/anthology/W17-3013). 2017. *Workshop on Abusive Language Online*
-  
+ 
+ 
+ 
+ 
+ #### 2016
+ 
+ *  Sarah Hewitt, Thanassis Tiropanis, and Christian Bokhove. [The problem of identifying misogynist language on Twitter (and other online social spaces](https://dl.acm.org/citation.cfm?id=2908183). 2016. *WebSci*
+ 
+ 
+ 
+ 
+ 
+ #### 2014
+ 
+ *  Jamie Bartlett, Richard Norrie, Sofia Patel, Rebekka Rumpel, and Simon Wibberley. [Misogyny on twitter](https://demos.co.uk/project/misogyny-on-twitter/). 2014. *Demos*
+ 
+ 
+ 
   
  #### 2013
  
@@ -164,6 +181,10 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
 
+
+#### 2002
+
+* Vasu Reddy. [Perverts and sodomites: Homophobia as hate speech in Africa](https://www.tandfonline.com/doi/abs/10.2989/16073610209486308). 2002. *Southern African Linguistics and Applied Language Studies*
   
   
 
