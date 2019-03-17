@@ -89,11 +89,15 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='langwise'> Language Wise
   
   
+  
+  
   ### <a name='langAmharic'> Amharic
   
   #### 2018
   
   * Zewdie Mossie, and Jenq-Haur Wang. [SOCIAL NETWORK HATE SPEECH DETECTION FOR AMHARIC LANGUAGE](http://aircconline.com/csit/csit886.pdf#page=51). 2018. *Computer Science & Information Technology*
+  
+  
   
   
 
@@ -105,6 +109,9 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Sarah Eissa. [Use of hate speech in Arabic language newspapers](http://dar.aucegypt.edu/handle/10526/5249) (2018).
 
 
+
+
+
 ### <a name='langDutch'> Dutch
   
   #### 2016
@@ -112,6 +119,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Stéphan Tulkens, Lisa Hilte, Elise Lodewyckx, Ben Verhoeven, and Walter Daelemans. [A Dictionary-based Approach to Racism Detection in Dutch Social Media](https://www.ta-cos.org/sites/ta-cos.org/files/dictionary-based-approach.pdf). 2016. *TA-COS*
   
   
+ 
+ 
  
 
 ### <a name='langEng'> English
@@ -128,6 +137,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Mai ElSherief, Shirin Nilizadeh, Dana Nguyen, Giovanni Vigna, and Elizabeth Belding. [Peer to peer hate: Hate speech instigators and their targets](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17905). 2018. *ICWSM*
   * Savvas Zannettou, Barry Bradlyn, Emiliano De Cristofaro, Haewoon Kwak, Michael Sirivianos, Gianluca Stringini, and Jeremy Blackburn. [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531). 2018. *WWW*
   * Punyajoy Saha, Binny Mathew, Pawan Goyal, and Animesh Mukherjee. [Hateminers: Detecting Hate speech against Women](https://arxiv.org/abs/1812.06700). 2018. *arXiv*
+  * Resham Ahluwalia, Himani Soni, Edward Callow, Anderson Nascimento, and Martine De Cock. [Detecting Hate Speech Against Women in English Tweets](http://ceur-ws.org/Vol-2263/paper032.pdf). 2018. *EVALITA*
   * Ziqi Zhang, and Lei Luo. [Hate speech detection: A solved problem? The challenging case of long tail on Twitter](https://content.iospress.com/articles/semantic-web/sw180338). 2018. *Semantic Web Preprint*
   * Karsten Müller, and Carlo Schwarz. [Fanning the flames of hate: Social media and hate crime](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082972). 2018. *SSRN*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection](http://www.aclweb.org/anthology/N18-2019). 2018. *NAACL*
@@ -142,6 +152,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2017
   
   * Pinkesh Badjatiya, Shashank Gupta, Manish Gupta, and Vasudeva Varma. [Deep learning for hate speech detection in tweets](https://dl.acm.org/citation.cfm?id=3054223). 2017. *WWW*
+  * Haji Mohammad Saleem, Kelly P. Dillon, Susan Benesch, and Derek Ruths. [A web of hate: Tackling hateful speech in online social spaces](https://arxiv.org/abs/1709.10159). 2017. *TA-COS*
+  * Eshwar Chandrasekharan, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. [You can't stay here: The efficacy of reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf). 2017. *CSCW*
   
   
   
@@ -158,6 +170,11 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2018
   
   * M. Ali Fauzi and Anny Yuniarti. [Ensemble Method for Indonesian Twitter Hate Speech Detection](http://iaescore.com/journals/index.php/IJEECS/article/view/10638). 2018. *Indonesian Journal of Electrical Engineering and Computer Science*
+  
+  
+  
+  
+  
   
   
 ### <a name='langItalian'> Italian
