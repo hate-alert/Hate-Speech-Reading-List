@@ -149,12 +149,18 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Binny Mathew, Ritam Dutt, Pawan Goyal, and Animesh Mukherjee. [Spread of hate speech in online social media](https://arxiv.org/abs/1812.01693). 2018. *arXiv*
   
   
+  
   #### 2017
   
   * Pinkesh Badjatiya, Shashank Gupta, Manish Gupta, and Vasudeva Varma. [Deep learning for hate speech detection in tweets](https://dl.acm.org/citation.cfm?id=3054223). 2017. *WWW*
   * Haji Mohammad Saleem, Kelly P. Dillon, Susan Benesch, and Derek Ruths. [A web of hate: Tackling hateful speech in online social spaces](https://arxiv.org/abs/1709.10159). 2017. *TA-COS*
   * Eshwar Chandrasekharan, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. [You can't stay here: The efficacy of reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf). 2017. *CSCW*
+  * Björn Gambäck, and Utpal Kumar Sikdar. [Using convolutional neural networks to classify hate-speech](http://www.aclweb.org/anthology/W17-3013). 2017. *Workshop on Abusive Language Online*
   
+  
+ #### 2013
+ 
+ *  Irene Kwok, and Yuzhou Wang. [Locate the hate: Detecting tweets against blacks](https://pdfs.semanticscholar.org/db55/11e90b2f4d650067ebf934294617eff81eca.pdf). 2013. *AAAI*
   
   
 
