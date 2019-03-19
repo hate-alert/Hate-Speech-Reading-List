@@ -32,7 +32,6 @@ A reading list of relevant research papers on Hate speech and related issues.
   
 
 
-
 ## <a name='intro'> Introduction
   
 The Internet is one of the greatest innovations of mankind which has brought together people from every race, religion, and nationality. Social media sites such as Twitter and Facebook have connected billions of people nd allowed them to share their ideas and opinions instantly. That being said, there are several ill consequences as well such as online harassment, trolling, cyber-bullying, and **hate speech**.
