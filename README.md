@@ -151,6 +151,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Alexandra Olteanu, Carlos Castillo, Jeremy Boy and Kush R. Varshney. [The Effect of Extremist Violence on Hateful Speech Online](https://arxiv.org/pdf/1804.05704.pdf). 2018. *ICWSM*
   * Bertie Vidgen, and Taha Yasseri. [Detecting weak and strong Islamophobic hate speech on social media](https://arxiv.org/abs/1812.10400). 2018. *arXiv*
   * Manoel Horta Ribeiro, Pedro H. Calais, Yuri A. Santos, Virgílio AF Almeida, and Wagner Meira Jr. [Characterizing and detecting hateful users on twitter](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17837). 2018. *ICWSM*
+  * Joni Salminen, Fabio Veronesi, Hind Almerekhi, Soon-Gvo Jung, and Bernard J. Jansen. [Online Hate Interpretation Varies by Country, But More by Individual: A Statistical Analysis Using Crowdsourced Ratings](https://ieeexplore.ieee.org/abstract/document/8554954/). 2018. *SNAMS*
   
   
   
