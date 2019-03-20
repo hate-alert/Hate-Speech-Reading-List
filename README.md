@@ -141,7 +141,6 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Ziqi Zhang, and Lei Luo. [Hate speech detection: A solved problem? The challenging case of long tail on Twitter](https://content.iospress.com/articles/semantic-web/sw180338). 2018. *Semantic Web Preprint*
   * Karsten Müller, and Carlo Schwarz. [Fanning the flames of hate: Social media and hate crime](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082972). 2018. *SSRN*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Leveraging Intra-User and Inter-User Representation Learning for Automated Hate Speech Detection](http://www.aclweb.org/anthology/N18-2019). 2018. *NAACL*
-  * Alexandra Olteanu, Carlos Castillo, Jeremy Boy, and Kush R. Varshney. [The effect of extremist violence on hateful speech online](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17908). 2018. *ICWSM*
   * David Robinson, Ziqi Zhang, and Jonathan Tepper. [Hate speech detection on twitter: Feature engineering vs feature selection](https://link.springer.com/chapter/10.1007/978-3-319-98192-5_9). 2018. *European Semantic Web Conference*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Hierarchical CVAE for Fine-Grained Hate Speech Classification](http://www.aclweb.org/anthology/D18-1391). 2018. *EMNLP*
   * Tommi Gröndahl, Luca Pajola, Mika Juuti, Mauro Conti, and N. Asokan. [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/abs/1808.09115). 2018. *arXiv*
@@ -178,6 +177,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  #### 2015
  
  *  Njagi Dennis Gitari, Zhang Zuping, Hanyurwimfura Damien, and Jun Long. [A lexicon-based approach for hate speech detection](https://preventviolentextremism.info/sites/default/files/A%20Lexicon-Based%20Approach%20for%20Hate%20Speech%20Detection.pdf). 2015. *International Journal of Multimedia and Ubiquitous Engineering*
+ *  Shuhua Liu, and Thomas Forss. [New classification models for detecting Hate and Violence web content](https://ieeexplore.ieee.org/abstract/document/7526960/). 2015. *IC3K*
  
  
  #### 2014
