@@ -172,6 +172,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  *  Pete Burnap, and Matthew L. Williams. [Us and them: identifying cyber hate on Twitter across multiple protected characteristics](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0072-6). 2016. *EPJ Data Science*
  *  Imran Awan. [Islamophobia on Social Media: A Qualitative Analysis of the Facebook's Walls of Hate](http://cybercrimejournal.com/ImranAwanvol10issue1IJCC2016.pdf). 2016. *International Journal of Cyber Criminology*
  *  Silva, Leandro, Mainack Mondal, Denzil Correa, Fabrício Benevenuto, and Ingmar Weber. [Analyzing the targets of hate in online social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/viewPaper/13147). 2016. *ICWSM*
+ *  Zeerak Waseem. [Are you a racist or am i seeing things? annotator influence on hate speech detection on twitter](http://aclweb.org/anthology/W16-5618). 2016. *NLP and Computational Social Science*
  
  
  
