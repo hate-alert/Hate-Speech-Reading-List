@@ -25,6 +25,7 @@ A reading list of relevant research papers on Hate speech and related issues.
       - [Hindi](#langHin)
       - [Indonesian](#langIndo)
       - [Italian](#langItalian)
+      - [Kenya](#langKenya)
   8. [Videos](#video)
   9. [Blogs](#blog)
   10. [Interesting Reads](#interReads)
@@ -248,6 +249,15 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Fabio Poletto, Marco Stranisci, Manuela Sanguinetti, Viviana Patti, and Cristina Bosco. [Hate speech annotation: Analysis of an italian Twitter corpus](https://iris.unito.it/retrieve/handle/2318/1659197/387293/paper024.pdf). 2017. *CLiC-it*  
   
   
+  
+  
+
+
+### <a name='langKenya'> Kenya
+  
+  #### 2014
+  
+  * Wilson Jeffrey Maloba. [Use of regular expressions for multi-lingual detection of hate speech in Kenya](https://su-plus.strathmore.edu/handle/11071/2242). 2014. *PhD diss., iLabAfrica*
   
 ## <a name='video'> Videos
   
