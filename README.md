@@ -163,6 +163,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Eshwar Chandrasekharan, Umashanthi Pavalanathan, Anirudh Srinivasan, Adam Glynn, Jacob Eisenstein, and Eric Gilbert. [You can't stay here: The efficacy of reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf). 2017. *CSCW*
   * Björn Gambäck, and Utpal Kumar Sikdar. [Using convolutional neural networks to classify hate-speech](http://www.aclweb.org/anthology/W17-3013). 2017. *Workshop on Abusive Language Online*
   * Rijul Magu, Kshitij Joshi, and Jiebo Luo. [Detecting the hate code on social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/viewPaper/15604). 2017. *ICWSM*
+  * Lucas Wright, Derek Ruths, Kelly P. Dillon, Haji Mohammad Saleem, and Susan Benesch [Vectors for counterspeech on Twitter](http://www.aclweb.org/anthology/W17-3009). 2017. *Workshop on Abusive Language Online*
  
  
  
