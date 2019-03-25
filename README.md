@@ -201,6 +201,9 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
 
+#### 2012
+
+* Karmen Erjavec and Melita Poler Kovačič. [“You Don't Understand, This is a New War!” Analysis of Hate Speech in News Web Sites' Comments](https://www.tandfonline.com/doi/abs/10.1080/15205436.2011.619679). 2012. *Mass Communication and Society*
 
 #### 2002
 
