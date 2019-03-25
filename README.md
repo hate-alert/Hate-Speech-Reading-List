@@ -182,6 +182,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  
  *  Njagi Dennis Gitari, Zhang Zuping, Hanyurwimfura Damien, and Jun Long. [A lexicon-based approach for hate speech detection](https://preventviolentextremism.info/sites/default/files/A%20Lexicon-Based%20Approach%20for%20Hate%20Speech%20Detection.pdf). 2015. *International Journal of Multimedia and Ubiquitous Engineering*
  *  Shuhua Liu, and Thomas Forss. [New classification models for detecting Hate and Violence web content](https://ieeexplore.ieee.org/abstract/document/7526960/). 2015. *IC3K*
+ *  Fabio Fasoli, Anne Maass, and Andrea Carnaghi. [Labelling and discrimination: Do homophobic epithets undermine fair distribution of resources?](https://www.ncbi.nlm.nih.gov/pubmed/25330919). 2015. *British Journal of Social Psychology*
  
  
  #### 2014
