@@ -153,7 +153,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Manoel Horta Ribeiro, Pedro H. Calais, Yuri A. Santos, Virgílio AF Almeida, and Wagner Meira Jr. [Characterizing and detecting hateful users on twitter](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17837). 2018. *ICWSM*
   * Joni Salminen, Fabio Veronesi, Hind Almerekhi, Soon-Gvo Jung, and Bernard J. Jansen. [Online Hate Interpretation Varies by Country, But More by Individual: A Statistical Analysis Using Crowdsourced Ratings](https://ieeexplore.ieee.org/abstract/document/8554954/). 2018. *SNAMS*
   * Phoey Lee Teh, Chi-Bin Cheng, and Weng Mun Chee. [Identifying and categorising profane words in hate speech](https://dl.acm.org/citation.cfm?id=3193077.3193078). 2018. *ICCDA*
-  
+  * Shruti Phadke, Jonathan Lloyd, James Hawdon, Mattia Samory, and Tanushree Mitra. [Framing Hate with Hate Frames: Designing the Codebook](https://dl.acm.org/citation.cfm?id=3274055). 2018. *CSCW*
   
   
   #### 2017
