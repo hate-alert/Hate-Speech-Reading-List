@@ -188,6 +188,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  #### 2014
  
  *  Jamie Bartlett, Richard Norrie, Sofia Patel, Rebekka Rumpel, and Simon Wibberley. [Misogyny on twitter](https://demos.co.uk/project/misogyny-on-twitter/). 2014. *Demos*
+ *  Susan Benesch. [Countering dangerous speech: new ideas for genocide prevention](https://www.ushmm.org/m/pdfs/20140212-benesch-countering-dangerous-speech.pdf). 2014.
  
  
  
