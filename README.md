@@ -188,6 +188,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   Nemanja Djuric, Jing Zhou, Robin Morris, Mihajlo Grbovic, Vladan Radosavljevic, and Narayan Bhamidipati. [Hate speech detection with comment embeddings](https://dl.acm.org/citation.cfm?id=2742760). 2015. *WWW*
  
  
+ 
+ 
  #### 2014
  
  *  Jamie Bartlett, Richard Norrie, Sofia Patel, Rebekka Rumpel, and Simon Wibberley. [Misogyny on twitter](https://demos.co.uk/project/misogyny-on-twitter/). 2014. *Demos*
