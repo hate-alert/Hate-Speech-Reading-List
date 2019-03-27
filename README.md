@@ -185,7 +185,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
  *  Shuhua Liu, and Thomas Forss. [New classification models for detecting Hate and Violence web content](https://ieeexplore.ieee.org/abstract/document/7526960/). 2015. *IC3K*
  *  Fabio Fasoli, Anne Maass, and Andrea Carnaghi. [Labelling and discrimination: Do homophobic epithets undermine fair distribution of resources?](https://www.ncbi.nlm.nih.gov/pubmed/25330919). 2015. *British Journal of Social Psychology*
  *  Jamie Bartlett and Alex Krasodomski-Jones. [Counter-speech examining content that challenges extremism online](https://www.demos.co.uk/wp-content/uploads/2015/10/Counter-speech.pdf). 2015 *DEMOS*
-  Nemanja Djuric, Jing Zhou, Robin Morris, Mihajlo Grbovic, Vladan Radosavljevic, and Narayan Bhamidipati. [Hate speech detection with comment embeddings](https://dl.acm.org/citation.cfm?id=2742760). 2015. *WWW*
+ *  Nemanja Djuric, Jing Zhou, Robin Morris, Mihajlo Grbovic, Vladan Radosavljevic, and Narayan Bhamidipati. [Hate speech detection with comment embeddings](https://dl.acm.org/citation.cfm?id=2742760). 2015. *WWW*
  
  
  
