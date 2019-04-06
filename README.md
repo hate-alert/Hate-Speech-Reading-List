@@ -41,13 +41,13 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 
 ## <a name='datasets'> Datasets
+  
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
   * Ziqi Zhang, David Robinson, and Jonathan Tepper. [Detecting hate speech on Twitter using a convolution-GRU based deep neural network](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_48). 2018.  *European Semantic Web Conference*
   * Ona de Gibert, Naiara Perez, Aitor García Pablos, and Montse Cuadros. [Hate Speech Dataset from a White Supremacy Forum](http://www.aclweb.org/anthology/W18-51#page=25). 2018. *ALW2*
   * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *LREC ELRA*
   * Mai ElSherief, Vivek Kulkarni, Dana Nguyen, William Yang Wang, and Elizabeth Belding. [Hate lingo: A target-based linguistic analysis of hate speech in social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17910). 2018. *ICWSM*
-
   * [GAB Dataset Link](https://zenodo.org/record/1418347) --> [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531). 2018 . *WWW*
   * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. [Automated hate speech detection and the problem of offensive language](https://arxiv.org/pdf/1703.04009.pdf). 2017. *ICWSM*
   * Lei Gao, and Ruihong Huang. [Detecting Online Hate Speech Using Context Aware Models](http://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP036.pdf). 2017. *RANLP*
