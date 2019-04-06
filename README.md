@@ -47,7 +47,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Ona de Gibert, Naiara Perez, Aitor García Pablos, and Montse Cuadros. [Hate Speech Dataset from a White Supremacy Forum](http://www.aclweb.org/anthology/W18-51#page=25). 2018. *ALW2*
   * Manuela Sanguinetti, Fabio Poletto, Cristina Bosco, Viviana Patti, and Stranisci Marco. [An italian Twitter corpus of hate speech against immigrants](https://iris.unito.it/bitstream/2318/1686261/1/710.pdf). 2018. *LREC ELRA*
   * Mai ElSherief, Vivek Kulkarni, Dana Nguyen, William Yang Wang, and Elizabeth Belding. [Hate lingo: A target-based linguistic analysis of hate speech in social media](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewPaper/17910). 2018. *ICWSM*
-  * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2018. *Arxiv Preprint*
+  * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
   * [GAB Dataset Link](https://zenodo.org/record/1418347) --> [What is gab: A bastion of free speech or an alt-right echo chamber](https://dl.acm.org/citation.cfm?id=3191531). 2018 . *WWW*
   * Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber. [Automated hate speech detection and the problem of offensive language](https://arxiv.org/pdf/1703.04009.pdf). 2017. *ICWSM*
   * Lei Gao, and Ruihong Huang. [Detecting Online Hate Speech Using Context Aware Models](http://www.acl-bg.org/proceedings/2017/RANLP%202017/pdf/RANLP036.pdf). 2017. *RANLP*
@@ -128,6 +128,8 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   #### 2019
   
+  * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
+  * Binny Mathew, Ritam Dutt, Pawan Goyal, and Animesh Mukherjee. [Spread of hate speech in online social media](https://arxiv.org/abs/1812.01693). 2019. *WebSci*
   * Pushkar Mishra, Marco Del Tredici, Helen Yannakoudakis, and Ekaterina Shutova. [Author Profiling for Hate Speech Detection](https://arxiv.org/abs/1902.06734). 2019. *arXiv*
   * T. Y. S. S. Santosh, and K. V. S. Aravind. [Hate Speech Detection in Hindi-English Code-Mixed Social Media Text](https://dl.acm.org/citation.cfm?id=3297048). 2019. *CoDS-COMAD*
   * Junanda Patihullah, and Edi Winarko. [Hate Speech Detection for Indonesia Tweets Using Word Embedding And Gated Recurrent Unit](https://journal.ugm.ac.id/ijccs/article/view/40125). 2019. *IJCCS*
@@ -146,7 +148,6 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Hierarchical CVAE for Fine-Grained Hate Speech Classification](http://www.aclweb.org/anthology/D18-1391). 2018. *EMNLP*
   * Tommi Gröndahl, Luca Pajola, Mika Juuti, Mauro Conti, and N. Asokan. [All You Need is "Love": Evading Hate-speech Detection](https://arxiv.org/abs/1808.09115). 2018. *arXiv*
   * Shervin Malmasi, and Marcos Zampieri. [Challenges in discriminating profanity from hate speech](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2017.1409284). 2018. *Journal of Experimental & Theoretical Artificial Intelligence*
-  * Binny Mathew, Ritam Dutt, Pawan Goyal, and Animesh Mukherjee. [Spread of hate speech in online social media](https://arxiv.org/abs/1812.01693). 2018. *arXiv*
   * Joel Finkelstein, Savvas Zannettou, Barry Bradlyn, and Jeremy Blackburn. [A quantitative approach to understanding online antisemitism](https://arxiv.org/abs/1809.01644). 2018. *arXiv*
   * Alexandra Olteanu, Carlos Castillo, Jeremy Boy and Kush R. Varshney. [The Effect of Extremist Violence on Hateful Speech Online](https://arxiv.org/pdf/1804.05704.pdf). 2018. *ICWSM*
   * Bertie Vidgen, and Taha Yasseri. [Detecting weak and strong Islamophobic hate speech on social media](https://arxiv.org/abs/1812.10400). 2018. *arXiv*
