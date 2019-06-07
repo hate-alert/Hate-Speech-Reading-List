@@ -278,6 +278,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='video'> Videos
   
   * [Hate Speech Beyond Borders: Nazila Ghanea at TEDxEastEnd](https://www.youtube.com/watch?v=mS-bVsHqCzU). 2012
+  * [Motivation behind studying hatespeech](https://www.youtube.com/watch?v=bghTL5gU6fs). 2018
   
   
   
