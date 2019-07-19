@@ -67,8 +67,9 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 ## <a name='top10'> Interesting Papers
   
-  * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015. *Unesco Publishing*
   
+  * Aymé Arango, Jorge Pérez and Barbara Poblete,[Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation](https://users.dcc.uchile.cl/~jperez/papers/sigir2019.pdf). 2019 . *SIGIR* (http://www.sigir.org/sigir2019/program/accepted/)
+  * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015. *Unesco Publishing*
   
   
 ## <a name='code'> Code Available
