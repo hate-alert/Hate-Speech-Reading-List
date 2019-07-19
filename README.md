@@ -86,7 +86,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='sharedtasks'> Shared Tasks
   
   * Cristina Bosco, Dell'Orletta Felice, Fabio Poletto, Manuela Sanguinetti, and Tesconi Maurizio. [Overview of the EVALITA 2018 Hate Speech Detection Task](http://ceur-ws.org/Vol-2263/paper010.pdf). 2018. *EVALITA*
-  * [HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
+  * Valerio Basile, Cristina Bosco,Elisabetta Fersini,Debora Nozza, Viviana Patti, Francisco Rangel ,Paolo Rosso and Manuela Sanguinetti, Page 54-63, [Proceedings of 13th SemEval Workshop](http://alt.qcri.org/semeval2019/data/uploads/semeval2019-proceedings.pdf). Archived competition link[HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
   
 ## <a name='langwise'> Language Wise
   
@@ -130,7 +130,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2019
   
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Learning to Decipher Hate Symbols](https://arxiv.org/abs/1904.02418). 2019. *arXiv*
-  * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
+  * Binny Mathew, Punyajoy Saha, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
   * Binny Mathew, Ritam Dutt, Pawan Goyal, and Animesh Mukherjee. [Spread of hate speech in online social media](https://arxiv.org/abs/1812.01693). 2019. *WebSci*
   * Pushkar Mishra, Marco Del Tredici, Helen Yannakoudakis, and Ekaterina Shutova. [Author Profiling for Hate Speech Detection](https://arxiv.org/abs/1902.06734). 2019. *arXiv*
   * T. Y. S. S. Santosh, and K. V. S. Aravind. [Hate Speech Detection in Hindi-English Code-Mixed Social Media Text](https://dl.acm.org/citation.cfm?id=3297048). 2019. *CoDS-COMAD*
