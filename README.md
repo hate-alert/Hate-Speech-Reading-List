@@ -68,7 +68,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='top10'> Interesting Papers
   
   
-  * Aymé Arango, Jorge Pérez and Barbara Poblete,[Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation](https://users.dcc.uchile.cl/~jperez/papers/sigir2019.pdf). 2019 . *SIGIR* (http://www.sigir.org/sigir2019/program/accepted/)
+  * Aymé Arango, Jorge Pérez and Barbara Poblete,[Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation](https://users.dcc.uchile.cl/~jperez/papers/sigir2019.pdf). 2019 . [*SIGIR*](http://www.sigir.org/sigir2019/program/accepted/)
   * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015. *Unesco Publishing*
   
   
@@ -87,7 +87,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ## <a name='sharedtasks'> Shared Tasks
   
   * Cristina Bosco, Dell'Orletta Felice, Fabio Poletto, Manuela Sanguinetti, and Tesconi Maurizio. [Overview of the EVALITA 2018 Hate Speech Detection Task](http://ceur-ws.org/Vol-2263/paper010.pdf). 2018. *EVALITA*
-  * Valerio Basile, Cristina Bosco,Elisabetta Fersini,Debora Nozza, Viviana Patti, Francisco Rangel ,Paolo Rosso and Manuela Sanguinetti, Page 54-63, [Proceedings of 13th SemEval Workshop](http://alt.qcri.org/semeval2019/data/uploads/semeval2019-proceedings.pdf). Archived competition link[HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
+  * Valerio Basile, Cristina Bosco,Elisabetta Fersini,Debora Nozza, Viviana Patti, Francisco Rangel ,Paolo Rosso and Manuela Sanguinetti, Page 54-63, [Proceedings of 13th SemEval Workshop](http://alt.qcri.org/semeval2019/data/uploads/semeval2019-proceedings.pdf). Archived competition link-[HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
   
 ## <a name='langwise'> Language Wise
   
