@@ -130,6 +130,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ### <a name='langEng'> English
   
   #### 2019
+  * Wafa Alorainy, Pete Burnap, Han Liu, and Matthew L. Williams. ["The Enemy Among Us": Detecting Cyber Hate Speech with Threats-based Othering Language Embeddings](https://dl.acm.org/citation.cfm?id=3324997). 2019. *ACM Transactions on the Web (TWEB)*
   * Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Yang Wang. [A Benchmark Dataset for Learning to Intervene in Online Hate Speech"](https://arxiv.org/abs/1909.04251). 2019. *arXiv*
   * Kristian Miok, Dong Nguyen-Doan, Blaž Škrlj, Daniela Zaharie, and Marko Robnik-Šikonja. [Prediction Uncertainty Estimation for Hate Speech Classification](https://arxiv.org/abs/1909.07158). 2019. *arXiv*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Learning to Decipher Hate Symbols](https://arxiv.org/abs/1904.02418). 2019. *arXiv*
