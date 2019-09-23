@@ -130,6 +130,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   #### 2019
   
+  * Kristian Miok, Dong Nguyen-Doan, Blaž Škrlj, Daniela Zaharie, and Marko Robnik-Šikonja. [Prediction Uncertainty Estimation for Hate Speech Classification](https://arxiv.org/abs/1909.07158). 2019. *arXiv*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Learning to Decipher Hate Symbols](https://arxiv.org/abs/1904.02418). 2019. *arXiv*
   * Binny Mathew, Punyajoy Saha, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
   * Binny Mathew, Ritam Dutt, Pawan Goyal, and Animesh Mukherjee. [Spread of hate speech in online social media](https://arxiv.org/abs/1812.01693). 2019. *WebSci*
