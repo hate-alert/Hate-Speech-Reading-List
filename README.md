@@ -41,7 +41,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 
 ## <a name='datasets'> Datasets
-  
+  * Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Yang Wang. [A Benchmark Dataset for Learning to Intervene in Online Hate Speech"](https://arxiv.org/abs/1909.04251). 2019. *arXiv*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Learning to Decipher Hate Symbols](https://arxiv.org/abs/1904.02418). 2019. *NAACL*
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
   * Antigoni-Maria Founta, Constantinos Djouvas, Despoina Chatzakou, Ilias Leontiadis, Jeremy Blackburn, Gianluca Stringhini, Athena Vakali, Michael Sirivianos, and Nicolas Kourtellis. [Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior](https://arxiv.org/abs/1802.00393). 2018. *ICWSM*
@@ -88,6 +88,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   * Cristina Bosco, Dell'Orletta Felice, Fabio Poletto, Manuela Sanguinetti, and Tesconi Maurizio. [Overview of the EVALITA 2018 Hate Speech Detection Task](http://ceur-ws.org/Vol-2263/paper010.pdf). 2018. *EVALITA*
   * Valerio Basile, Cristina Bosco,Elisabetta Fersini,Debora Nozza, Viviana Patti, Francisco Rangel ,Paolo Rosso and Manuela Sanguinetti, Page 54-63, [Proceedings of 13th SemEval Workshop](http://alt.qcri.org/semeval2019/data/uploads/semeval2019-proceedings.pdf). Archived competition link-[HatEval@SemEval 2019](https://competitions.codalab.org/competitions/19935)
+  * Valerio Basile, Cristina Bosco, Elisabetta Fersini, Debora Nozza, Viviana Patti, Francisco Manuel Rangel Pardo, Paolo Rosso, and Manuela Sanguinetti. [Semeval-2019 task 5: Multilingual detection of hate speech against immigrants and women in twitter](https://www.aclweb.org/anthology/S19-2007/). 2019. *International Workshop on Semantic Evaluation*
   
 ## <a name='langwise'> Language Wise
   
