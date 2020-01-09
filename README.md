@@ -41,6 +41,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 
 ## <a name='datasets'> Datasets
+  * Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroglu, and Marco Guerini. [CONAN - COunter NArratives through Nichesourcing:a Multilingual Dataset of Responses to Fight Online Hate Speech](https://www.aclweb.org/anthology/P19-1271.pdf). 2019. *ACL*
   * Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Yang Wang. [A Benchmark Dataset for Learning to Intervene in Online Hate Speech"](https://arxiv.org/abs/1909.04251). 2019. *arXiv*
   * Jing Qian, Mai ElSherief, Elizabeth Belding, and William Yang Wang. [Learning to Decipher Hate Symbols](https://arxiv.org/abs/1904.02418). 2019. *NAACL*
   * Binny Mathew, Hardik Tharad, Subham Rajgaria, Prajwal Singhania, Suman Kalyan Maity, Pawan Goyal, and Animesh Mukherje. [Thou shalt not hate: Countering Online Hate Speech](https://arxiv.org/abs/1808.04409). 2019. *ICWSM*
@@ -106,6 +107,9 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
 
 ### <a name='langAra'> Arabic
+  #### 2019
+  
+  * Arijit Ghosh Chowdhury, Aniket Didolkar, Ramit Sawhney and Rajiv Ratn Shah. [ARHNet - Leveraging Community Interaction For Detection Of ReligiousHate Speech In Arabic](https://www.aclweb.org/anthology/P19-2038.pdf). 2019. *ACL:Student Research Workshop*
   
   #### 2018
   
@@ -130,6 +134,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ### <a name='langEng'> English
   
   #### 2019
+  * Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, Noah A. Smith. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf). 2019. *ACL*
   * Thomas Davidson, Debasmita Bhattacharya, and Ingmar Weber. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://arxiv.org/abs/1905.12516). 2019. *arXiv*
   * Wafa Alorainy, Pete Burnap, Han Liu, and Matthew L. Williams. ["The Enemy Among Us": Detecting Cyber Hate Speech with Threats-based Othering Language Embeddings](https://dl.acm.org/citation.cfm?id=3324997). 2019. *ACM Transactions on the Web (TWEB)*
   * Jing Qian, Anna Bethke, Yinyin Liu, Elizabeth Belding, and William Yang Wang. [A Benchmark Dataset for Learning to Intervene in Online Hate Speech"](https://arxiv.org/abs/1909.04251). 2019. *arXiv*
