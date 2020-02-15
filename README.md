@@ -134,6 +134,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 ### <a name='langEng'> English
   
   #### 2019
+  * Pinkesh Badjatiya, Manish Gupta, and Vasudeva Varma. [Stereotypical bias removal for hate speech detection task using knowledge-based generalizations](https://arxiv.org/pdf/2001.05495.pdf). 2019. *The World Wide Web Conference (WWW)*
   * Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, Noah A. Smith. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf). 2019. *ACL*
   * Thomas Davidson, Debasmita Bhattacharya, and Ingmar Weber. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://arxiv.org/abs/1905.12516). 2019. *arXiv*
   * Wafa Alorainy, Pete Burnap, Han Liu, and Matthew L. Williams. ["The Enemy Among Us": Detecting Cyber Hate Speech with Threats-based Othering Language Embeddings](https://dl.acm.org/citation.cfm?id=3324997). 2019. *ACM Transactions on the Web (TWEB)*
