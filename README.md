@@ -1,5 +1,7 @@
 <!--- [![HitCount](http://hits.dwyl.io/binny-mathew/Hate-Speech-Reading-List.svg)](http://hits.dwyl.io/binny-mathew/Hate-Speech-Reading-List) --->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinny-mathew%2FHate-Speech-Reading-List)](https://hits.seeyoufarm.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/binny-mathew/Hate-Speech-Reading-List/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/binny-mathew/Hate-Speech-Reading-List/graphs/commit-activity)
 <!--- [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com) --->
 
 # Reading List for Hate Speech Research 📖
