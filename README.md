@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinny-mathew%2FHate-Speech-Reading-List)](https://hits.seeyoufarm.com)
 <!--- [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com) --->
 
-# Reading List for Hate Speech Research
+# Reading List for Hate Speech Research 📖
 A reading list of relevant research papers on Hate speech and related issues. This list is maintained by [Binny Mathew](https://binny-mathew.github.io) and [Punyajoy Saha](https://punyajoy.github.io), at [CNeRG Lab](http://www.cnergres.iitkgp.ac.in/), [IIT Kharagpur](http://www.iitkgp.ac.in)
 
   In the past few years we have witnessed an increase in the number of hate speech incidents world wide. While there is a rich literature in the social sciences, the research on the computational aspects have just started. This list is an effort to create a *one stop comprehensive* guide for all research related to Hate Speech. The list is still incomplete and the categorization might be inappropriate. 
