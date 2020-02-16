@@ -3,11 +3,11 @@
 <!--- [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com) --->
 
 # Reading List for Hate Speech Research
-A reading list of relevant research papers on Hate speech and related issues.
+A reading list of relevant research papers on Hate speech and related issues. This list is maintained by [Binny Mathew](https://binny-mathew.github.io) and [Punyajoy Saha](https://punyajoy.github.io), at [CNeRG Lab](http://www.cnergres.iitkgp.ac.in/), [IIT Kharagpur](http://www.iitkgp.ac.in)
 
   In the past few years we have witnessed an increase in the number of hate speech incidents world wide. While there is a rich literature in the social sciences, the research on the computational aspects have just started. This list is an effort to create a *one stop comprehensive* guide for all research related to Hate Speech. The list is still incomplete and the categorization might be inappropriate. 
  
- We will keep adding papers and improving the list. Any suggestions are welcome!
+ We will keep adding papers and improving the list. Any suggestions are super welcome :smile:
  
 
 ## <a name='TOC'>Table of Contents</a>
