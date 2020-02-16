@@ -1,5 +1,6 @@
 <!--- [![HitCount](http://hits.dwyl.io/binny-mathew/Hate-Speech-Reading-List.svg)](http://hits.dwyl.io/binny-mathew/Hate-Speech-Reading-List) --->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinny-mathew%2FHate-Speech-Reading-List)](https://hits.seeyoufarm.com)
+https://forthebadge.com/images/badges/powered-by-responsibility.svg
 
 # Reading List for Hate Speech Research
 A reading list of relevant research papers on Hate speech and related issues.
