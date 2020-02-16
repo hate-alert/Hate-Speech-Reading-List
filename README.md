@@ -319,3 +319,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 * Add more papers
   
+
+## Contact
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_BinnyM)
