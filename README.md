@@ -140,8 +140,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2020
   * Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou. [From Pick-Up Artists to Incels: A Data-Driven Sketch of the Manosphere](https://arxiv.org/abs/2001.07600). 2020. *arXiv*
 
-  #### 2019
-
+  * Akash Gautam, Puneet Mathur, Rakesh Gosangi, Debanjan Mahata, Ramit Sawhney, and Rajiv Ratn Shah. [# MeTooMA: Multi-Aspect Annotations of Tweets Related to the MeToo Movement](https://arxiv.org/abs/1912.06927). 2019. *arXiv*
   * Pinkesh Badjatiya, Manish Gupta, and Vasudeva Varma. [Stereotypical bias removal for hate speech detection task using knowledge-based generalizations](https://arxiv.org/pdf/2001.05495.pdf). 2019. *The World Wide Web Conference (WWW)*
   * Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, Noah A. Smith. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf). 2019. *ACL*
   * Thomas Davidson, Debasmita Bhattacharya, and Ingmar Weber. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://arxiv.org/abs/1905.12516). 2019. *arXiv*
@@ -282,19 +281,6 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   * Fabio Del Vigna, Andrea Cimino, Felice Dell'Orletta, Marinella Petrocchi, and Maurizio Tesconi [Hate me, hate me not: Hate speech detection on Facebook](http://ceur-ws.org/Vol-1816/paper-09.pdf). 2017. *Italian Conference on Cybersecurity*
   * Fabio Poletto, Marco Stranisci, Manuela Sanguinetti, Viviana Patti, and Cristina Bosco. [Hate speech annotation: Analysis of an italian Twitter corpus](https://iris.unito.it/retrieve/handle/2318/1659197/387293/paper024.pdf). 2017. *CLiC-it*  
-  
-  
-  
-  
-
-
-### <a name='langVietnamese'> Vietnamese
-  
-  #### 2020
-  
-  * Son T. Luu, Hung P. Nguyen, Kiet Van Nguyen, and Ngan Luu-Thuy Nguyen. [Comparison Between Traditional Machine Learning Models And Neural Network Models For Vietnamese Hate Speech Detection](https://arxiv.org/abs/2002.00759). 2020. *IEEE RIVF*
-
-
 
 
 
@@ -303,6 +289,14 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2014
   
   * Wilson Jeffrey Maloba. [Use of regular expressions for multi-lingual detection of hate speech in Kenya](https://su-plus.strathmore.edu/handle/11071/2242). 2014. *PhD diss., iLabAfrica*
+
+
+
+### <a name='langVietnamese'> Vietnamese
+  
+  #### 2020
+  
+  * Son T. Luu, Hung P. Nguyen, Kiet Van Nguyen, and Ngan Luu-Thuy Nguyen. [Comparison Between Traditional Machine Learning Models And Neural Network Models For Vietnamese Hate Speech Detection](https://arxiv.org/abs/2002.00759). 2020. *IEEE RIVF*
 
 
   
@@ -340,3 +334,4 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 <!--
 ## Contact
  --->
+  #### 2019
