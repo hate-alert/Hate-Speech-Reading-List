@@ -30,6 +30,7 @@ A reading list of relevant research papers on Hate speech and related issues. Th
       - [Indonesian](#langIndo)
       - [Italian](#langItalian)
       - [Kenya](#langKenya)
+      - [Vietnamese](#langVietnamese)
   8. [Videos](#video)
   9. [Blogs](#blog)
   10. [Interesting Reads](#interReads)
@@ -140,7 +141,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou. [From Pick-Up Artists to Incels: A Data-Driven Sketch of the Manosphere](https://arxiv.org/abs/2001.07600). 2020. *arXiv*
 
   #### 2019
-  
+
   * Pinkesh Badjatiya, Manish Gupta, and Vasudeva Varma. [Stereotypical bias removal for hate speech detection task using knowledge-based generalizations](https://arxiv.org/pdf/2001.05495.pdf). 2019. *The World Wide Web Conference (WWW)*
   * Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, Noah A. Smith. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf). 2019. *ACL*
   * Thomas Davidson, Debasmita Bhattacharya, and Ingmar Weber. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://arxiv.org/abs/1905.12516). 2019. *arXiv*
@@ -287,11 +288,23 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
 
 
+### <a name='langVietnamese'> Vietnamese
+  
+  #### 2020
+  
+  * Son T. Luu, Hung P. Nguyen, Kiet Van Nguyen, and Ngan Luu-Thuy Nguyen. [Comparison Between Traditional Machine Learning Models And Neural Network Models For Vietnamese Hate Speech Detection](https://arxiv.org/abs/2002.00759). 2020. *IEEE RIVF*
+
+
+
+
+
 ### <a name='langKenya'> Kenya
   
   #### 2014
   
   * Wilson Jeffrey Maloba. [Use of regular expressions for multi-lingual detection of hate speech in Kenya](https://su-plus.strathmore.edu/handle/11071/2242). 2014. *PhD diss., iLabAfrica*
+
+
   
 ## <a name='video'> Videos
   
