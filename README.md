@@ -140,6 +140,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2020
   * Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou. [From Pick-Up Artists to Incels: A Data-Driven Sketch of the Manosphere](https://arxiv.org/abs/2001.07600). 2020. *arXiv*
 
+  #### 2019
   * Akash Gautam, Puneet Mathur, Rakesh Gosangi, Debanjan Mahata, Ramit Sawhney, and Rajiv Ratn Shah. [# MeTooMA: Multi-Aspect Annotations of Tweets Related to the MeToo Movement](https://arxiv.org/abs/1912.06927). 2019. *arXiv*
   * Pinkesh Badjatiya, Manish Gupta, and Vasudeva Varma. [Stereotypical bias removal for hate speech detection task using knowledge-based generalizations](https://arxiv.org/pdf/2001.05495.pdf). 2019. *The World Wide Web Conference (WWW)*
   * Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, Noah A. Smith. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf). 2019. *ACL*
