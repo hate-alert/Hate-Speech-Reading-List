@@ -142,6 +142,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
   #### 2019
   * Akash Gautam, Puneet Mathur, Rakesh Gosangi, Debanjan Mahata, Ramit Sawhney, and Rajiv Ratn Shah. [# MeTooMA: Multi-Aspect Annotations of Tweets Related to the MeToo Movement](https://arxiv.org/abs/1912.06927). 2019. *arXiv*
+  * Marzieh Mozafari, Reza Farahbakhsh, and Noel Crespi. [A BERT-based transfer learning approach for hate speech detection in online social media](). 2019. *International Conference on Complex Networks and Their Applications*
   * Pinkesh Badjatiya, Manish Gupta, and Vasudeva Varma. [Stereotypical bias removal for hate speech detection task using knowledge-based generalizations](https://arxiv.org/pdf/2001.05495.pdf). 2019. *The World Wide Web Conference (WWW)*
   * Maarten Sap, Dallas Card, Saadia Gabriel, Yejin Choi, Noah A. Smith. [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf). 2019. *ACL*
   * Thomas Davidson, Debasmita Bhattacharya, and Ingmar Weber. [Racial Bias in Hate Speech and Abusive Language Detection Datasets](https://arxiv.org/abs/1905.12516). 2019. *arXiv*
@@ -298,6 +299,10 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   #### 2020
   
   * Son T. Luu, Hung P. Nguyen, Kiet Van Nguyen, and Ngan Luu-Thuy Nguyen. [Comparison Between Traditional Machine Learning Models And Neural Network Models For Vietnamese Hate Speech Detection](https://arxiv.org/abs/2002.00759). 2020. *IEEE RIVF*
+
+  #### 2019
+
+  * Hang Thi-Thuy Do, Huy Duc Huynh, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, and Anh Gia-Tuan Nguyen. [Hate Speech Detection on Vietnamese Social Media Text using the Bidirectional-LSTM Model](https://arxiv.org/abs/1911.03648). 2019. *arXiv*
 
 
   
