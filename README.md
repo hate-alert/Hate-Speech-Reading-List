@@ -4,6 +4,10 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/binny-mathew/Hate-Speech-Reading-List/graphs/commit-activity)
 <!--- [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com) --->
 
+# Contributors
+
+[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/0)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/0)[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/1)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/1)[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/2)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/2)[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/3)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/3)[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/4)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/4)[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/5)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/5)[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/6)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/6)[![](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/images/7)](https://sourcerer.io/fame/binny-mathew/binny-mathew/Hate-Speech-Reading-List/links/7)
+
 # Reading List for Hate Speech Research 📖
 A reading list of relevant research papers on Hate speech and related issues. This list is maintained by [Binny Mathew](https://binny-mathew.github.io) and [Punyajoy Saha](https://punyajoy.github.io), at [CNeRG Lab](http://www.cnergres.iitkgp.ac.in/), [IIT Kharagpur](http://www.iitkgp.ac.in)
 
