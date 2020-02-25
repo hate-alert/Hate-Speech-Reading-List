@@ -141,6 +141,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou. [From Pick-Up Artists to Incels: A Data-Driven Sketch of the Manosphere](https://arxiv.org/abs/2001.07600). 2020. *arXiv*
 
   #### 2019
+  * Sohail Akhtar, Valerio Basile, and Viviana Patti. [A New Measure of Polarization in the Annotation of Hate Speech](). 2019.  *International Conference of the Italian Association for Artificial Intelligence (AI\*IA)*
   * Akash Gautam, Puneet Mathur, Rakesh Gosangi, Debanjan Mahata, Ramit Sawhney, and Rajiv Ratn Shah. [# MeTooMA: Multi-Aspect Annotations of Tweets Related to the MeToo Movement](https://arxiv.org/abs/1912.06927). 2019. *arXiv*
   * Marzieh Mozafari, Reza Farahbakhsh, and Noel Crespi. [A BERT-based transfer learning approach for hate speech detection in online social media](). 2019. *International Conference on Complex Networks and Their Applications*
   * Pinkesh Badjatiya, Manish Gupta, and Vasudeva Varma. [Stereotypical bias removal for hate speech detection task using knowledge-based generalizations](https://arxiv.org/pdf/2001.05495.pdf). 2019. *The World Wide Web Conference (WWW)*
