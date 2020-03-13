@@ -145,7 +145,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou. [From Pick-Up Artists to Incels: A Data-Driven Sketch of the Manosphere](https://arxiv.org/abs/2001.07600). 2020. *arXiv*
 
   #### 2019
-  *
+  * Bertie Vidgen, Taha Yasseri, and Helen Margetts. [Trajectories of Islamophobic hate amongst far right actors on Twitter](https://arxiv.org/abs/1910.05794). 2019 *arXiv*
   * Kosisochukwu Judith Madukwe, and Xiaoying Gao. [The Thin Line Between Hate and Profanity](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_28). 2019.  *Australasian Joint Conference on Artificial Intelligence*
   * Sohail Akhtar, Valerio Basile, and Viviana Patti. [A New Measure of Polarization in the Annotation of Hate Speech](https://link.springer.com/chapter/10.1007/978-3-030-35166-3_41). 2019.  *International Conference of the Italian Association for Artificial Intelligence (AI\*IA)*
   * Akash Gautam, Puneet Mathur, Rakesh Gosangi, Debanjan Mahata, Ramit Sawhney, and Rajiv Ratn Shah. [# MeTooMA: Multi-Aspect Annotations of Tweets Related to the MeToo Movement](https://arxiv.org/abs/1912.06927). 2019. *arXiv*
