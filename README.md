@@ -310,7 +310,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * Son T. Luu, Hung P. Nguyen, Kiet Van Nguyen, and Ngan Luu-Thuy Nguyen. [Comparison Between Traditional Machine Learning Models And Neural Network Models For Vietnamese Hate Speech Detection](https://arxiv.org/abs/2002.00759). 2020. *IEEE RIVF*
 
   #### 2019
-
+  * Thai Binh Nguyen, Quang Minh Nguyen, Thu Hien Nguyen, Ngoc Phuong Pham, The Loc Nguyen, and Quoc Truong Do. [VAIS Hate Speech Detection System: A Deep Learning based Approach for System Combination](https://arxiv.org/abs/1910.05608). 2019. *arXiv*
   * Hang Thi-Thuy Do, Huy Duc Huynh, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, and Anh Gia-Tuan Nguyen. [Hate Speech Detection on Vietnamese Social Media Text using the Bidirectional-LSTM Model](https://arxiv.org/abs/1911.03648). 2019. *arXiv*
 
 
