@@ -75,11 +75,12 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   
   
 
-## <a name='top10'> Interesting Papers
+## <a name='top10'> Interesting Papers/Books
   
   
   * Aymé Arango, Jorge Pérez and Barbara Poblete,[Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation](https://users.dcc.uchile.cl/~jperez/papers/sigir2019.pdf). 2019 . [*SIGIR*](http://www.sigir.org/sigir2019/program/accepted/)
   * Iginio Gagliardone, Danit Gal, Thiago Alves, and Gabriela Martinez. [Countering online hate speech](https://books.google.co.in/books?hl=en&lr=&id=WAVgCgAAQBAJ&oi=fnd&pg=PA3&dq=hate+speech&ots=Tb6s3jFMUz&sig=w16Mus9ctU7sE-utDFYUGAgf3EU#v=onepage&q=hate%20speech&f=false). 2015. *Unesco Publishing*
+  * Nadine Strossen [HATE: Why We Should Resist it with Free Speech, Not Censorship](https://www.amazon.com/HATE-Should-Resist-Censorship-Inalienable/dp/0190859121). A short book [review](https://muse.jhu.edu/article/716373/pdf)
   
   
 ## <a name='code'> Code Available
@@ -89,9 +90,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
   * [Hateminers: Detecting Hate speech against Women](https://github.com/punyajoy/Hateminers-EVALITA)
   * [Detecting Online Hate Speech Using Context Aware Models](https://github.com/sjtuprog/fox-news-comments)
   * [CLiPS HAte speech DEtection System (HADES)](https://github.com/clips/hades)
-  
-  
-  
+  * [DeEpLearning models for MultIlingual haTespeech](https://github.com/punyajoy/DE-LIMIT)  
   
   
 ## <a name='sharedtasks'> Shared Tasks
