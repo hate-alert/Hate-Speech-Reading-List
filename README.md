@@ -141,6 +141,7 @@ The Internet is one of the greatest innovations of mankind which has brought tog
 
 ### <a name='langEng'> English
   #### 2020
+  * Chris J. Kennedy, Geoff Bacon, Alexander Sahn, Claudia von Vacano. [Constructing interval variables via faceted Rasch measurement and multitask deep learning: a hate speech application](https://arxiv.org/abs/2009.10277). 2020. *arXiv*
   * Raul Gomez, Jaume Gibert, Lluis Gomez, and Dimosthenis Karatzas. [Exploring Hate Speech Detection in Multimodal Publications](https://arxiv.org/abs/1910.03814). 2020. *IEEE Winter Conference on Applications of Computer Vision*
   * Manoel Horta Ribeiro, Jeremy Blackburn, Barry Bradlyn, Emiliano De Cristofaro, Gianluca Stringhini, Summer Long, Stephanie Greenberg, and Savvas Zannettou. [From Pick-Up Artists to Incels: A Data-Driven Sketch of the Manosphere](https://arxiv.org/abs/2001.07600). 2020. *arXiv*
 
